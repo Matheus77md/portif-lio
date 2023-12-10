@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 
-<p>Criando meu portifolio nos cursos Alura</p>
+<p>Criando meu portifolio</p>
 
 ##  🚀   Tecnologias
 
